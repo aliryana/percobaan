@@ -24,4 +24,6 @@
   curl_close($ch);
   $data = simplexml_load_string($response);
   var_dump($data);
+  //haha
+  //ulalaaa
 ?>
